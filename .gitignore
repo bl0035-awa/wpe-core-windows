@@ -1,0 +1,6 @@
+build-win/
+build/
+*.user
+*.suo
+.vs/
+out/
