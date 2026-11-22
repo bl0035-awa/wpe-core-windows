@@ -71,6 +71,14 @@ void       wpe_set_window_visible(WpeHandle* handle, bool visible);
 - 含中文文件名的场景包（pkg）解析可能失败
 - 60fps 上限受场景复杂度与显卡性能影响
 
+## 问题反馈
+
+**若在使用中遇到问题**（无法加载场景、DLL 崩溃、构建失败等），请到 [Issues](https://github.com/bl0035-awa/wpe-core-windows/issues) 提交问题，并附上：
+
+- 系统版本（Windows 10/11）、显卡型号、驱动版本
+- `wpe-core.dll` 版本（文件属性 → 详细信息）
+- 复现步骤 + 日志/截图
+- 场景来源（不需要上传版权文件，说明类型即可）
 ## 贡献
 
 见 [CONTRIBUTING.md](CONTRIBUTING.md)。
